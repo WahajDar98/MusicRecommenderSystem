@@ -33,7 +33,7 @@ A limitation with this project is that it does not give song recommendations bas
 If this project is worked on in the future, these next steps should be taken:
 
 - Using a [Spotify API](https://developer.spotify.com/documentation/web-api/.) call.
-- Use Natural Language Processing ([NLP])(https://machinelearningmastery.com/natural-language-processing/) to find similar songs by the song's lyrics.
+- Use Natural Language Processing ([NLP](https://machinelearningmastery.com/natural-language-processing/)) to find similar songs by the song's lyrics.
 - Use more data from a website like [Kaggle](https://www.kaggle.com/) where you can access their datasets. [Kaggle Datasets](https://www.kaggle.com/datasets) 
 - Deploying the final model function to a mobile app or web app like [Streamlit](https://docs.streamlit.io/) or [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
