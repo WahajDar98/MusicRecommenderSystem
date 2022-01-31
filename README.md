@@ -47,10 +47,13 @@ If this project is worked on in the future, these next steps should be taken:
 ## Sources
 The online resources that I used in order to get a better understanding of this project:
 1. [Correlation-Heatmap](https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/) 
-2. [NAME](FILL IN LINK)
-3. [NAME](FILL IN LINK)
-4. [NAME](FILL IN LINK)
-5. [NAME](FILL IN LINK)
+2. [Pearson Correlation](https://www.scikit-yb.org/en/latest/api/target/feature_correlation.html)
+3. [One Hot Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
+4. [Decision Tree Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
+5. [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+6. [Tuning Decision Tree](https://medium.com/@mohtedibf/indepth-parameter-tuning-for-decision-tree-6753118a03c3)
+7. [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+8. [K-means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 
 ## For More Information
 Please review my analysis in my [Jupyter Notebook](FILL IN LINK) or [presentation deck](FILL IN LINK).
