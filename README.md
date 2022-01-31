@@ -30,7 +30,7 @@ XXX
 A limitation with this project is that it does not give song recommendations based off mood. Also, it does not use the the song's lyrics to predict similar songs as well. 
 
 ## Next Steps
-If this project is worked on in the future, these next steps could be taken:
+If this project is worked on in the future, these next steps should be taken:
 
 - Use more data from a website like [Kaggle](https://www.kaggle.com/) where you can access their datasets. [Kaggle Datasets](https://www.kaggle.com/datasets) 
 - Using a [Spotify API](https://developer.spotify.com/documentation/web-api/.) call.
