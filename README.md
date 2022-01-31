@@ -56,7 +56,7 @@ The online resources that I used in order to get a better understanding of this 
 8. [K-means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 
 ## For More Information
-Please review my analysis in my [Jupyter Notebook](FILL IN LINK) or [presentation deck](FILL IN LINK).
+Please review my analysis in my [Jupyter Notebook](FILL IN LINK) or [presentation deck](https://docs.google.com/presentation/d/1WU6WAefsTRtd4woIdrnaSvJZtnCRFtAHkxMi2i-IUqE/edit#slide=id.p1).
 For additional questions, feel free to contact [me](https://www.linkedin.com/in/wahaj-dar-/).
 
 ## Repository Structure
