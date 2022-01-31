@@ -9,13 +9,10 @@
 
 
 ## Business Objective 
-- This will help users with a Spotify account to be able to listen to songs that are similar to what they are already listening to. This includes users who are indecisive or sometimes tired of what they have been listening to that need some new songs but also resonates with the kind of taste in music they already have. 
-
 This will help users with a Spotify account to be able to listen to songs that are similar to what they are already listening to. This includes users who are indecisive or sometimes tired of what they have been listening to that need some new songs but also resonates with the kind of taste in music they already have. 
 
-
 ## Data
-
+The datasets that I used were 5 files that were taken from Kaggle called “[Spotify dataset]”(https://www.kaggle.com/vatsalmavani/spotify-dataset?select=data) which I then merged together. 
 
 ## Methods
 XXX
@@ -59,8 +56,8 @@ For additional questions, feel free to contact [me](https://www.linkedin.com/in/
 
 ## Repository Structure
 ```
-├── Data                   <- Source data .csv files
-├── Images                 <- Exported Notebook visualizations
-├── Final.ipynb            <- Technical and narrative documentation in Jupyter Notebook
+├── data                   <- Source data .csv files
+├── images                 <- Exported Notebook visualizations
+├── notebooks              <- Technical and narrative documentation in Jupyter Notebook
 └── README.md              <- Top-level README to review this project
 ```
