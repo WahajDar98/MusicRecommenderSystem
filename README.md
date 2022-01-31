@@ -2,6 +2,8 @@
 
 # Music Recommender System
 
+Author: [Wahaj Dar](https://www.linkedin.com/in/wahaj-dar-/)
+
 ## Background
 The reason I chose to do a music recommendation system is because I love listening to music. I mean who doesnt? So as I was doing some research I came across some very interesting finds like the health benefits of music. For example according to Healthline.com a study published in the Journal of Consumer Research, found that people tend to prefer sad music when they are experiencing a deep interpersonal loss such as the end of a relationship. The study stated that sad music provides a substitute for the lost relationship. They compared it to the preference most people have for an empathic friend — someone who truly understands what you’re going through. The American Music Therapy Association (AMTA) reports that music therapy programs can be designed to achieve goals such as managing stress, enhancing memory, and alleviating pain. Surprisingly enough research has shown a clear link that music can help people cope with physical pain. 
 
