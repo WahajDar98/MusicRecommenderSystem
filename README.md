@@ -1,4 +1,4 @@
-![https://github.com/WahajDar98/MusicRecommenderSystem/blob/main/image/Music%20banner.jpeg](https://github.com/WahajDar98/MusicRecommenderSystem/blob/main/image/Music%20banner.jpeg)
+![https://github.com/WahajDar98/MusicRecommenderSystem/blob/main/Images/Music%20banner.jpeg](https://github.com/WahajDar98/MusicRecommenderSystem/blob/main/Images/Music%20banner.jpeg)
 
 # Music Recommender System
 
