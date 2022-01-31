@@ -3,12 +3,15 @@
 # Music Recommender System
 
 ## Background
-
+- 
 
 ## Overview
 
 
 ## Business Objective 
+- This will help users with a Spotify account to be able to listen to songs that are similar to what they are already listening to. This includes users who are indecisive or sometimes tired of what they have been listening to that need some new songs but also resonates with the kind of taste in music they already have. 
+
+This will help users with a Spotify account to be able to listen to songs that are similar to what they are already listening to. This includes users who are indecisive or sometimes tired of what they have been listening to that need some new songs but also resonates with the kind of taste in music they already have. 
 
 
 ## Data
