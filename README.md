@@ -12,7 +12,7 @@ The reason I chose to do a music recommendation system is because I love listeni
 This will help users with a Spotify account to be able to listen to new music. This includes users who are indecisive or sometimes tired of what they have been listening to that need some new songs but also resonates with the kind of taste in music they already have. 
 
 ## Data
-The datasets that I used were 5 files that were taken from [Kaggle](https://www.kaggle.com/) called "[Spotify dataset](https://www.kaggle.com/vatsalmavani/spotify-dataset?select=data)" which I then merged together. 
+The datasets that I used were 5 files that were taken from [Kaggle](https://www.kaggle.com/) called "[Spotify dataset](https://www.kaggle.com/vatsalmavani/spotify-dataset?select=data)".
 
 ## Methods
 XXX
