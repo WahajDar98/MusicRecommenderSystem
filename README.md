@@ -14,7 +14,7 @@ The reason I chose to only use data from Spotify is:
 - The algorithm-based audio analysis (song features) provides an amazing  opportunity for song analysis
 - ID and URI are included with the songs to identify them which also organizes tracking
 
-The following Spotify audio features are extracted and used in determining similarity for recommendation. For what each of these audio features means refer to the [documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features) for an in-depth explanation of each:
+Spotify audio features are extracted and used in order to find similar songs for recommendation. For what each of these audio features means refer to the [documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features) for an in-depth explanation of each:
 
 - Acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo (BPM), valence
 
