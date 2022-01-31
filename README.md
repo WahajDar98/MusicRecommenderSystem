@@ -63,8 +63,9 @@ For additional questions, feel free to contact [me](https://www.linkedin.com/in/
 
 ## Repository Structure
 ```
-├── data                   <- Source data .csv files
-├── images                 <- Exported Notebook visualizations
-├── notebooks              <- Technical and narrative documentation in Jupyter Notebook
-└── README.md              <- Top-level README to review this project
+├── Data                        <- Source data .csv files
+├── Images                      <- Exported Notebook visualizations
+├── Notebooks                   <- Technical and narrative documentation in Jupyter Notebook
+├── Capstone_presentation.pdf   <- PDF version of project presentation (FIX DEPENDING WHERE IT GOES)
+└── README.md                   <- Top-level README to review this project
 ```
