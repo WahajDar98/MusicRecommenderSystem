@@ -6,7 +6,17 @@
 The reason I chose to do a music recommendation system is because I love listening to music. I mean who doesnt? So as I was doing some research I came across some very interesting finds like the health benefits of music. For example according to Healthline.com a study published in the Journal of Consumer Research, found that people tend to prefer sad music when they are experiencing a deep interpersonal loss such as the end of a relationship. The study stated that sad music provides a substitute for the lost relationship. They compared it to the preference most people have for an empathic friend — someone who truly understands what you’re going through. The American Music Therapy Association (AMTA) reports that music therapy programs can be designed to achieve goals such as managing stress, enhancing memory, and alleviating pain. Surprisingly enough research has shown a clear link that music can help people cope with physical pain. 
 
 ## Overview
+This project is to help if you have ever been in a  situation where you are listening to a song and you instantly fall in love with it. Then you’re listening to it over and over again and then you finally get tired of that song? Well if you have ever found yourself in that situation this would greatly benefit you. 
 
+The reason I chose to only use data from Spotify is:
+
+- Spotiify is the number one music streaming service with 47.7 million monthly users with a database of over 70 million songs
+- The algorithm-based audio analysis (song features) provides an amazing  opportunity for song analysis
+- ID and URI are included with the songs to identify them which also organizes tracking
+
+The following Spotify audio features are extracted and used in determining similarity for recommendation. For what each of these audio features means refer to the [documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features) for an in-depth explanation of each:
+
+- Acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo (BPM), valence
 
 ## Business Objective 
 This will help users with a Spotify account to be able to listen to new music. This includes users who are indecisive or sometimes tired of what they have been listening to that need some new songs but also resonates with the kind of taste in music they already have. 
