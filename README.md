@@ -33,7 +33,7 @@ This project uses a Correlation-Heatmap, Pearson Correlation Coefficient, One Ho
 The best model was a Decision Tree with r2-score of Train Dataset ≈ 97% and Test Dataset ≈ 74%
 
 ## Conclusions
-
+The recommendation system works pretty well. In the Song Recommendation  notebook you will be able to see I tested 3 different songs that returns 5 song reccomendations each. Based on those song recommendations you can see that the artists that are recommended also have songs in the similar genre as the songs that were put into the recommender system. 
 
 ## Limitations
 A limitation with this project is that it does not give song recommendations based off mood. Also, it does not use the the song's lyrics to predict similar songs as well. 
