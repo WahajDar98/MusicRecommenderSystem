@@ -30,10 +30,10 @@ The datasets that I used were 5 files that were taken from [Kaggle](https://www.
 This project uses a Correlation-Heatmap, Pearson Correlation Coefficient, One Hot Encoder, Decision Tree Regressor, GridSearchCV, Tuning a Decision Tree, Random Forest Regressor and lastly  K-means Clustering. Exploratory data analysis and visualizations are conducted on the cleaned data.
 
 ## Results
-XXX
+The best model was a Decision Tree with r2-score of Train Dataset is 97% and Test Dataset is 74%
 
 ## Conclusions
-XXX
+
 
 ## Limitations
 A limitation with this project is that it does not give song recommendations based off mood. Also, it does not use the the song's lyrics to predict similar songs as well. 
