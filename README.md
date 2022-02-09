@@ -66,6 +66,6 @@ For additional questions, feel free to contact [me](https://www.linkedin.com/in/
 ├── Data                        <- Source data .csv files
 ├── Images                      <- Exported Notebook visualizations
 ├── Notebooks                   <- Technical and narrative documentation in Jupyter Notebook
-├── Capstone_presentation.pdf   <- PDF version of project presentation (FIX DEPENDING WHERE IT GOES)
+├── Capstone_presentation.pdf   <- PDF version of project presentation
 └── README.md                   <- Top-level README to review this project
 ```
